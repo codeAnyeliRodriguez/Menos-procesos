@@ -1,0 +1,25 @@
+xbox accessory managment service
+windows search
+temas
+telefonia
+tarjeta inteligente
+servicio telefonico
+servicio de transferencia inteligente en segundo plano
+xbos live
+servicio de geolocalizacion
+servicio de dispositivo de interfaz humana
+servicio de directivas de diagnostico 
+servicio biometrico de windows
+host del servivio de diagnostico 
+host de sistema de diagnostico
+hora de la red de telefonia movil
+fax
+experiencias del usuario y telemetria asociadas
+servivio de enrutamiento de mensajes...
+servicio panel de escritura a mano y teclado tactil
+administrador de mapas descargados
+cola de impresion
+extensiones y notificaciones de impresora 
+control parental
+registro remoto
+
